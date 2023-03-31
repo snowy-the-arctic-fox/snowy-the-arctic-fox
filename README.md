@@ -11,6 +11,8 @@ Currently, my commisions are closed. Might reopen them soon
 
 As for programming, I am trying to make virtual machines more... accessable to the users across the world. Ranging from Windows to MacOS to even a chromebook! (hopefully)
 
+![alt text](https://github.com/FurryCoders/Logos/blob/main/logos/furry-coders.png)
+
 <!--
 **snowy-the-arctic-fox/snowy-the-arctic-fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
