@@ -9,6 +9,14 @@ My pronouns are as follows: He/They/She (any is fine)
 
 Currently, my commisions are closed. Might reopen them soon
 
+My "group" Aussie Furs
+
+### Fun fact!
+
+I have hederochromia, which means I have 2 different eye colours.
+
+### Programs
+
 As for programming, I am trying to make virtual machines more... accessable to the users across the world. Ranging from Windows to MacOS to even a chromebook! (hopefully)
 
 ![alt text](https://github.com/FurryCoders/Logos/blob/main/logos/furry-coders.png)
