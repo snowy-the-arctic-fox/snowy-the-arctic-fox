@@ -11,12 +11,17 @@ Currently, my commisions are closed. Might reopen them soon
 
 My "group" Aussie Furs
 
-### Fun fact!
+## Fun fact!
 
 I have hederochromia, which means I have 2 different eye colours.
 
-### Programs
+## Programs
 
+### Furry GPT
+An extension to Chat GPT, Furry GPT gives out information like how a furry talks! 
+#### **Warning** 
+The Furry GPT AI can produce explicit responses. The clean version that is suitable for public use is still being worked on
+### General Programming
 As for programming, I am trying to make virtual machines more... accessable to the users across the world. Ranging from Windows to MacOS to even a chromebook! (hopefully)
 
 ![alt text](https://github.com/FurryCoders/Logos/blob/main/logos/furry-coders.png)
