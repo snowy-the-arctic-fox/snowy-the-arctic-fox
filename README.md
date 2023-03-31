@@ -21,6 +21,12 @@ I have hederochromia, which means I have 2 different eye colours.
 An extension to Chat GPT, Furry GPT gives out information like how a furry talks! 
 #### **Warning** 
 The Furry GPT AI can produce explicit responses. The clean version that is suitable for public use is still being worked on
+### FurGen
+This AI is a Fursona drawing mechanism. Input a text of your fursona and it will draw it perfectly!
+#### **Warning** 
+The FurGen AI can produce explicit images. The clean version that is suitable for public use is still being worked on, but there will be an app specifically made for explicit images.
+### Megaman I TAS (full playthrough)
+This is a TAS for the Megaman I game. Using FCEUX, an NES emulator, it can automatically play the game perfectly without taking damage! This is **not** AI. This TAS was created by me by typing in controller inputs for every frame of the game, allowing a completly damageless playthrough!
 ### General Programming
 As for programming, I am trying to make virtual machines more... accessable to the users across the world. Ranging from Windows to MacOS to even a chromebook! (hopefully)
 
