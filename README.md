@@ -1,4 +1,4 @@
-### Good'ay!
+# Good'ay!
 My name is snowy-the-arctic-fox, or more commonly known as Snowy. I am a developer, artist, furry, and a CGI artist. 
 
 I'm currently learning Python, APIs, and AI. I am rarely on VRChat, and if I am, I am most likely to be testing out a mod or tracking hardware I make (FloofVR)
