@@ -17,8 +17,10 @@ my email is snowydev.github.developer@gmail.com
 ## Fun fact!
 
 I have hederochromia, which means I have 2 different eye colours.
+
 I have STML, which stands for short term memory loss.
-Music creator!
+
+I'm a music creator! (havent posted on spotify though)
 
 ## Programs
 
