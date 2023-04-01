@@ -11,9 +11,14 @@ Currently, my commisions are closed. Might reopen them soon
 
 My "group" Aussie Furs
 
+## Contact me!
+my email is snowydev.github.developer@gmail.com
+
 ## Fun fact!
 
 I have hederochromia, which means I have 2 different eye colours.
+I have STML, which stands for short term memory loss.
+Music creator!
 
 ## Programs
 
