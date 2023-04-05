@@ -38,6 +38,7 @@ This is a TAS for the Megaman I game. Using FCEUX, an NES emulator, it can autom
 As for programming, I am trying to make virtual machines more... accessable to the users across the world. Ranging from Windows to MacOS to even a chromebook! (hopefully)
 
 ![alt text](https://thisfursonadoesnotexist.com/v2/jpgs/seed77132.jpg) _Snowy_
+![alt_test](![snowy-the-arctic-fox pfp (ALT5)](https://user-images.githubusercontent.com/129465069/230230911-5f71fa1e-feca-4ad2-a07d-0c682ff4a5b7.jpg))
 
 <!--
 **snowy-the-arctic-fox/snowy-the-arctic-fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
