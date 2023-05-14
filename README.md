@@ -48,6 +48,7 @@ As for programming, I am trying to make virtual machines more... accessable to t
 
 ![alt text](https://thisfursonadoesnotexist.com/v2/jpgs/seed77132.jpg) _Snowy_
 (![snowy-the-arctic-fox pfp (ALT5)](https://user-images.githubusercontent.com/129465069/230230911-5f71fa1e-feca-4ad2-a07d-0c682ff4a5b7.jpg))
+![image](https://github.com/snowy-the-arctic-fox/snowy-the-arctic-fox/assets/129465069/fe8eb56e-df41-4ba2-bc3f-61ea001431e4)
 
 <!--
 **snowy-the-arctic-fox/snowy-the-arctic-fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
